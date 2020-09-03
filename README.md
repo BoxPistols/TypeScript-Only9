@@ -35,3 +35,12 @@
 1. Object
 1. undefined
 1. nullable
+
+// Type
+
+$ yarn add -D @types/node
+$ npx tsc main.ts
+$ node main.js
+
+$ yarn add -D uuid
+$ yarn add -D @types/uuid
