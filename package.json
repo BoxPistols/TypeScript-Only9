@@ -1,0 +1,11 @@
+{
+  "name": "TS-is-only9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BoxPistols/TypeScript-Only9.git",
+  "author": "ai <ai@ex.in>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
