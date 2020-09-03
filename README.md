@@ -22,3 +22,16 @@
 
 `$ npx tsc --init`
 > tsconfig.json
+
+
+## Must to remember is 9 Types
+
+1. boolean
+1. number
+1. string
+1. any
+1. void
+1. Array
+1. Object
+1. undefined
+1. nullable
