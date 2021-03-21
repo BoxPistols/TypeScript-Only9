@@ -44,3 +44,10 @@ $ node main.js
 
 $ yarn add -D uuid
 $ yarn add -D @types/uuid
+
+
+---
+
+## WebPack
+
+`$ npm install --save-dev webpack webpack-cli webpack-dev-server typescript ts-loader`

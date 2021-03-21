@@ -2,13 +2,21 @@
   "name": "TS-is-only9",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack serve --open"
+  },
   "repository": "https://github.com/BoxPistols/TypeScript-Only9.git",
   "author": "ai <ai@ex.in>",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^14.6.3",
     "@types/uuid": "^8.3.0",
-    "typescript": "^4.0.2",
-    "uuid": "^8.3.0"
+    "ts-loader": "^8.0.18",
+    "typescript": "^4.2.3",
+    "uuid": "^8.3.0",
+    "webpack": "^5.27.1",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2"
   }
 }

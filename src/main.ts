@@ -1,5 +1,4 @@
 import * as fs from "fs"
-import * as uuid from "uuid"
 
 // const fs = require("fs")
 
